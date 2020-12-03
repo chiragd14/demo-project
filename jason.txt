@@ -1,0 +1,11 @@
+commit 61c7491f76fb426e803a23182c8d96642a21b383
+Author: Anthony Ofili <ofili.anthony@yahoo.com>
+Date:   Thu Dec 3 14:17:19 2020 -0600
+
+    second.txt added
+
+commit a8315e35d3e0f281ab623acdf1c0bd438a6f1287
+Author: chiragdave <chiragd14@gmail.com>
+Date:   Thu Dec 3 14:10:28 2020 -0600
+
+    first.txt created

@@ -9,3 +9,7 @@ Author: chiragdave <chiragd14@gmail.com>
 Date:   Thu Dec 3 14:10:28 2020 -0600
 
     first.txt created
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
